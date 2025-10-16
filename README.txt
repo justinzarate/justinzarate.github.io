@@ -3,7 +3,7 @@
 A modern personal landing page built with HTML, CSS, and vanilla JavaScript.  
 This site showcases my résumé in a sleek, Botpress-inspired design — viewable online and downloadable as a PDF.
 
-👉 **Live site:** [https://justinzarate.github.io](https://justinzarate.github.io)
+👉 **Live site:** [https://justinzarate.github.io] (https://justinzarate.github.io)
 
 ---
 
@@ -27,9 +27,6 @@ This site showcases my résumé in a sleek, Botpress-inspired design — viewabl
 │ └── images/ # Optional images (logo, avatar, etc.)
 ├── LICENSE.txt
 └── README.md
-
-yaml
-Copy code
 
 ---
 
@@ -62,6 +59,7 @@ Pull requests are welcome for general improvements.
 📄 License
 This project is open source under the MIT License.
 You’re free to use, modify, and distribute it with attribution.
+
 
 
 
