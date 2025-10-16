@@ -1,33 +1,67 @@
-Strata Template powered by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# justinzarate.github.io
+
+A modern personal landing page built with HTML, CSS, and vanilla JavaScript.  
+This site showcases my résumé in a sleek, Botpress-inspired design — viewable online and downloadable as a PDF.
+
+👉 **Live site:** [https://justinzarate.github.io](https://justinzarate.github.io)
+
+---
+
+## ✨ Features
+- Responsive modern layout (works on desktop & mobile)
+- Smooth scrolling and clean typography
+- Embedded résumé viewer with download link
+- Lightweight (no frameworks or build tools required)
+- Fully static (served via GitHub Pages)
+
+---
+
+## 📂 Project Structure
+/ (repo root)
+├── index.html # Main landing page
+├── assets/
+│ ├── style.css # Custom styling
+│ ├── app.js # JavaScript for interactions
+│ ├── files/
+│ │ └── Justino_Z_2025.pdf # Résumé PDF
+│ └── images/ # Optional images (logo, avatar, etc.)
+├── LICENSE.txt
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/justinzarate/justinzarate.github.io.git
+   cd justinzarate.github.io
+Open locally
+Simply open index.html in your browser.
+
+Deploy to GitHub Pages
+Push to the main branch of your GitHub repo.
+In Settings → Pages, set source to main and folder to / (root).
+
+🛠️ Customization
+Replace the résumé PDF:
+Drop your own file into assets/files/ and update index.html if needed.
+
+Edit index.html text, hero section, or footer for your personal details.
+
+Adjust colors/typography in assets/style.css.
+
+🤝 Contributing
+This repo is meant as a simple personal portfolio starter.
+Feel free to fork it and adapt for your own résumé site.
+Pull requests are welcome for general improvements.
+
+📄 License
+This project is open source under the MIT License.
+You’re free to use, modify, and distribute it with attribution.
 
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
